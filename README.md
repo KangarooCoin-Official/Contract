@@ -1,2 +1,2 @@
 # Contract
-sdfsdfsdfsdfsdfsdfdsfdsf
+kangaroocoin.cash
